@@ -14,6 +14,10 @@
 - [Python](https://www.python.org/)
 
 ## Как запустить проект / Installation
+Клонировать репозиторий на свой компьютер
+```
+git clone git@github.com:gplakhotnikov/PROJECT_NAME.git
+```
 
 Установите зависимости, запустив команду pip3 install -r requirements.txt. После этого запустите файл homework.py для вывода результатов по имеющимся тренировкам. 
 ```sh
@@ -22,4 +26,4 @@ python3 homework.py
 ```
 
 ## О разработчике / Development
-(с) Grigory Plakhotnikov
+Grigory Plakhotnikov
